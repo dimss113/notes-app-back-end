@@ -1,0 +1,10 @@
+// eslint and nodemon installation dev
+/**
+ * @eslint : npm install eslint --save-dev
+ * @nodemon : npm install nodemon --save-dev
+ * eslint configuration: npx eslint --init
+ * chrome://flags/#block-insecure-private-network-requests
+ * http://notesapp-v1.dicodingacademy.com/
+ * chmod 400 notes-api-webserver.pem 
+ * ssh -i "notes-api-webserver.pem" ubuntu@ec2-52-221-186-34.ap-southeast-1.compute.amazonaws.com
+ */
